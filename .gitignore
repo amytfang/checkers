@@ -1,0 +1,8 @@
+.Python
+bin/
+include/
+lib/
+*.pyc
+pyvenv.cfg
+.venv
+pip-selfcheck.json
